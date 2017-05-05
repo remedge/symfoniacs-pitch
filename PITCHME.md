@@ -1,4 +1,4 @@
-![LOGO](https://github.com/remedge/symfoniacs-pitch/blob/master/img/api-platform-logo.svg)
+![LOGO](https://raw.githubusercontent.com/remedge/symfoniacs-pitch/1a9536f7ff5e7a16d6aea7dc27c6dff4fd64e3ab/img/api-platform-logo.svg)
 
 #### Использование API-platform в реальной разработке
 <br>
